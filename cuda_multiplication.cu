@@ -1,15 +1,11 @@
 // ajee10x
 //The solution of the matrix multiplication problem on a GPU and CUDA technology
+
 #include "cuda_runtime.h"
-
 #include "device_launch_parameters.h"
-
 #include <stdio.h>
-
 #include <stdlib.h>
-
 #include <vector>
-
 #include "time.h"
 
 #define N(10)
