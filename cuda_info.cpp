@@ -1,3 +1,5 @@
+// ajee10x
+
 #include <stdio.h>
 #include <cuda_runtime_api.h>
 
